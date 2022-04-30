@@ -14,7 +14,6 @@ const sections = [
   { title: 'Work', url: '#/work' },
   { title: 'UpSkill', url: '#/upskillzo' },
   { title: 'Health', url: '#/health' },
-  // { title: 'Community Connect', url: '#/communityconnect' },
   { title: 'My Profile', url: '#/profile' },
 ];
 

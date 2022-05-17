@@ -15,6 +15,7 @@ const sections = [
   { title: 'UpSkill', url: '#/upskillzo' },
   { title: 'Health', url: '#/health' },
   { title: 'My Profile', url: '#/profile' },
+ 
 ];
 
 const useStyles = makeStyles((theme) => ({

@@ -54,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
 
 
 const mainFeaturedPost = {
-  title: 'Upskill - Active Learning with Desk-Mate',
+  title: 'Upskill - Active Learning with A.I.S.H.A.A',
   description:
     "Your personalized learning hub because no matter where you are in your current career, its never too late to learn and develop new skills.",
   image:upskillImage ,
@@ -98,7 +98,7 @@ export default function Home() {
       <header className="App-header">
 
         <Container maxWidth="lg">
-        <Header title="UpSkill - Improve one page at a time with Desk-Mate" />
+        <Header title="UpSkill - Improve one page at a time with A.I.S.H.A.A" />
           <main>
 
             <MainFeaturedPost post={mainFeaturedPost} />

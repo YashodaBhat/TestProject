@@ -90,9 +90,9 @@ const useStyles = makeStyles((theme) => ({
 
 
 const mainFeaturedPost = {
-  title: 'Desk-Mate',
+  title: 'A.I.S.H.A.A',
   description:
-    "Inspired by IKIGAI concept, Desk-Mate makes employees to be their best version in three main aspects - Work, Career & Life",
+    "Inspired by IKIGAI concept,A.I.S.H.A.A makes employees to be their best version in three main aspects - Work, Career & Life",
     image: dashboardImage,
   imgText: 'main image description',
   linkText: 'Continue reading…'
@@ -163,14 +163,14 @@ export default function Home() {
       <header className="App-header">
 
         <Container maxWidth="lg">
-          <Header title="Desk-Mate" />
+          <Header title="A.I.S.H.A.A" />
           
           <main>
             <MainFeaturedPost post={mainFeaturedPost} />
             
             <Container className={classes.cardGrid} maxWidth="lg">
             <Typography variant="subtitle" align="center" className={classes.divHeading}>
-                  <b>👋Meet Desk-Mate👋</b>
+                  <b>👋Meet A.I.S.H.A.A👋</b>
                 </Typography>
                 <br/><br/>
            

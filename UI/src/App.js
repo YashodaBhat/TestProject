@@ -18,6 +18,7 @@ import MindfulMeditation from './Components/Meditation/MindfulMeditation';
 import WorkLanding from './Components/Work/WorkLanding';
 import MindNote from './Components/Work/MindNote';
 
+
 function App() {
   return (
     <div className="App">
@@ -41,6 +42,7 @@ function App() {
             <Route exact path="/mindfulmedi" component={MindfulMeditation}/>
             <Route exact path="/work" component={WorkLanding}/>
             <Route exact path="/note" component={MindNote}/>
+           
           </Switch>
       </HashRouter>
     </div>

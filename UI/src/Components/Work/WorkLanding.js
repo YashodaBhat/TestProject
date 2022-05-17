@@ -34,7 +34,7 @@ export default function WorkLanding() {
       <React.Fragment>
         <CssBaseline />     
          <Container maxWidth="lg">
-          <Header title="Work - Improve your working style with DASH" />
+          <Header title="Work - Improve your working style with A.I.S.H.A.A" />
           <main>
             <MainFeaturedPost post={mainFeaturedPost} />
             
